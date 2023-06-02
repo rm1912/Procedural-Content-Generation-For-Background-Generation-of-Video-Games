@@ -64,8 +64,8 @@
 
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <p align="center">
-  <img src="image/Picrure1.png" alt="Image 1" width="300" height="200" style="display:inline-block;">
-  <img src="image/Picrure2.jpg" alt="Image 2" width="300" height="200" style="display:inline-block;">
+  <img src="image/Picture1.png" alt="Image 1" width="300" height="200" style="display:inline-block;">
+  <img src="image/Picture2.jpg" alt="Image 2" width="300" height="200" style="display:inline-block;">
    <em>images generated using Perlin Noise</em>
 </p>
 

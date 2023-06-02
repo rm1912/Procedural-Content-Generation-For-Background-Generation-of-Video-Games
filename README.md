@@ -64,8 +64,8 @@
 
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <p align="center">
-  <img src="![image](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/46331999-a414-4eff-807f-4796a91281d2)" alt="Image 1" width="300" height="200" style="display:inline-block;">
-  <img src="![image](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/8d8a16b2-977a-4b97-8dff-d5ced9edcf31)" alt="Image 2" width="300" height="200" style="display:inline-block;">
+  <img src="" alt="Image 1" width="300" height="200" style="display:inline-block;">
+  <img src="![image](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/558f7848-658c-4b92-bcb5-45526697071c)" alt="Image 2" width="300" height="200" style="display:inline-block;">
    <em>images generated using Perlin Noise</em>
 </p>
 

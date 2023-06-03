@@ -87,9 +87,9 @@
 
 <br> <!-- Insert an empty line using HTML <br> tag -->
 
-&emsp;&emsp;&emsp;&emsp;  ![Picture1 (1)](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/98761231-3d95-4594-8d43-891b11a5242c)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Picture2](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/497aef4c-f1a5-4311-a726-876a0c3d309d)
+  ![Picture1 (1)](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/98761231-3d95-4594-8d43-891b11a5242c)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Picture2](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/497aef4c-f1a5-4311-a726-876a0c3d309d)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fractal Noise Implementation &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Simplex Noise Implementation
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fractal Noise Implementation &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Simplex Noise Implementation
 
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <br> <!-- Insert an empty line using HTML <br> tag -->

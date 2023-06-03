@@ -63,7 +63,7 @@
 *Synthetic textures using Perlin noise are often used in CGI to make computer-generated visual elements appear more natural, by imitating the controlled random appearance of textures in nature.
 
 <br> <!-- Insert an empty line using HTML <br> tag -->
-![Picture1](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/c3a4607e-efd4-4360-bed4-fd3c35a7d2c6)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      ![Picture2](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/88ec04b1-a24d-4ba2-be7e-2e5f398b7785)
+![Picture1](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/c3a4607e-efd4-4360-bed4-fd3c35a7d2c6)    &emsp;&emsp;&emsp;&emsp;     ![Picture2](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/88ec04b1-a24d-4ba2-be7e-2e5f398b7785)
 <div align="center">
   2D images generated using Perlin Noise
 </div>

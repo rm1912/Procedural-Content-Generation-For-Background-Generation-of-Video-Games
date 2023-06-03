@@ -73,7 +73,7 @@
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <br> <!-- Insert an empty line using HTML <br> tag -->
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![Picture](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/ec9622c8-dc00-4437-8cee-a4f873579853)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![Picture](https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/ec9622c8-dc00-4437-8cee-a4f873579853)
 <div align="center">
   3D realistic ridge generated using a modification of Perlin Noise
 </div>

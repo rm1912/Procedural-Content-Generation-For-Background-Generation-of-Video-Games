@@ -107,11 +107,13 @@
 <br> <!-- Insert an empty line using HTML <br> tag -->
 <br> <!-- Insert an empty line using HTML <br> tag -->
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/6bb59260-f237-43b0-bbbe-d5d496a82784
+<div align="center">
+  A short demo of the background implementing my code
+</div>
 
 
 
-
-https://github.com/rm1912/Procedural-Content-Generation-For-Background-Generation-of-Video-Games/assets/105429945/6bb59260-f237-43b0-bbbe-d5d496a82784
 
 
 
